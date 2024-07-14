@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Heidarzadeh</h1>
 <h3 align="center">A passionate BackEnd developer and Data science from Iran</h3>
 
-- 🔭 I’m currently working on Financial error reduction systems **Fixed income investment funds error management system**
 
 - 🌱 I’m currently learning **Python , Js , Ruby , .NET**
 
